@@ -4,7 +4,6 @@ import Faq from "./pages/projects/Faq";
 import TimeDashboard from "./pages/projects/TimeDashboard";
 import ECommercePage from "./pages/projects/ECommercePage";
 import PricingComponent from "./pages/projects/PricingComponent";
-import ProfileCard from "./pages/projects/ProfileCard";
 import SignUpForm from "./pages/projects/SignUpForm";
 import SignUpFormJunior from "./pages/projects/SignUpFormJunior";
 import SunnysideLP from "./pages/projects/SunnysideLP";
@@ -31,7 +30,6 @@ function App() {
           path="/pages/projects/PricingComponent"
           element={<PricingComponent />}
         />
-        {/* <Route path="/pages/projects/ProfileCard" element={<ProfileCard />} /> */}
         <Route path="/pages/projects/SignUpForm" element={<SignUpForm />} />
         <Route
           path="/pages/projects/SignUpFormJunior"
