@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./styles.css";
-import Navbar from "../../components/Navbar/Navbar";
 import Thumbnail from "../../assets/thumbnails/PricingComponent.jpg";
 
 export default function PricingComponent() {

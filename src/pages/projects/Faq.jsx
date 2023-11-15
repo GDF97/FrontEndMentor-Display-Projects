@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import React from "react";
-import Navbar from "../../components/Navbar/Navbar";
 import "./styles.css";
 import Thumbnail from "../../assets/thumbnails/Faq.jpg";
 
