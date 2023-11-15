@@ -31,7 +31,7 @@ function App() {
           path="/pages/projects/PricingComponent"
           element={<PricingComponent />}
         />
-        <Route path="/pages/projects/ProfileCard" element={<ProfileCard />} />
+        {/* <Route path="/pages/projects/ProfileCard" element={<ProfileCard />} /> */}
         <Route path="/pages/projects/SignUpForm" element={<SignUpForm />} />
         <Route
           path="/pages/projects/SignUpFormJunior"
