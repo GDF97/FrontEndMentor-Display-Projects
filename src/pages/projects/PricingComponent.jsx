@@ -8,7 +8,6 @@ export default function PricingComponent() {
   let nomeProjeto = "> Pricing component with toggle";
   return (
     <div className="ProjectsPage">
-      <Navbar />
       <main className="Main">
         <div className="Main-header">
           <Link to={"/"}>Projetos</Link>

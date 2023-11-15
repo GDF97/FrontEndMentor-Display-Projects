@@ -8,7 +8,6 @@ export default function Faq() {
   let nomeProjeto = "> FAQ accordion card";
   return (
     <div className="ProjectsPage">
-      <Navbar />
       <main className="Main">
         <div className="Main-header">
           <Link to={"/"}>Projetos</Link>

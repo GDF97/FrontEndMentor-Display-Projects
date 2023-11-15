@@ -8,7 +8,6 @@ export default function SignUpForm() {
   let nomeProjeto = "> Intro component with sign-up form";
   return (
     <div className="ProjectsPage">
-      <Navbar />
       <main className="Main">
         <div className="Main-header">
           <Link to={"/"}>Projetos</Link>

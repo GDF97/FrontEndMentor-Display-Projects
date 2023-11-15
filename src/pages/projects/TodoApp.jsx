@@ -8,7 +8,6 @@ export default function TodoApp() {
   let nomeProjeto = "> Todo app";
   return (
     <div className="ProjectsPage">
-      <Navbar />
       <main className="Main">
         <div className="Main-header">
           <Link to={"/"}>Projetos</Link>

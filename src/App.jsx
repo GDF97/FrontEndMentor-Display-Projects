@@ -13,10 +13,12 @@ import SocialDashboard from "./pages/projects/SocialDashboard";
 import UrlAPIpage from "./pages/projects/UrlAPIpage";
 import AdviceApp from "./pages/projects/AdviceApp";
 import Home from "./pages/Home";
+import Navbar from "./components/Navbar/Navbar";
 
 function App() {
   return (
     <>
+      <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/pages/projects/Faq" element={<Faq />} />

@@ -8,7 +8,6 @@ export default function UrlAPIpage() {
   let nomeProjeto = "> URL shortening API landing page";
   return (
     <div className="ProjectsPage">
-      <Navbar />
       <main className="Main">
         <div className="Main-header">
           <Link to={"/"}>Projetos</Link>

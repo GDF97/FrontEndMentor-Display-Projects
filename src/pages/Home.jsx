@@ -46,7 +46,6 @@ export default function Home() {
 
   return (
     <div className="Home">
-      <Navbar />
       <main className="Main">
         <h1>FrontEndMentor - Projects</h1>
         <div className="Menu">

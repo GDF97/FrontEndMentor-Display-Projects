@@ -8,7 +8,6 @@ export default function ECommercePage() {
   let nomeProjeto = "> ECommercePage";
   return (
     <div className="ProjectsPage">
-      <Navbar />
       <main className="Main">
         <div className="Main-header">
           <Link to={"/"}>Projetos</Link>

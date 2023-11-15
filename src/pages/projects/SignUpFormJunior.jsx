@@ -8,7 +8,6 @@ export default function SignUpFormJunior() {
   let nomeProjeto = "> Newsletter sign-up form with success message";
   return (
     <div className="ProjectsPage">
-      <Navbar />
       <main className="Main">
         <div className="Main-header">
           <Link to={"/"}>Projetos</Link>

@@ -8,7 +8,6 @@ export default function Profilecard() {
   let nomeProjeto = "> Profile card component";
   return (
     <div className="ProjectsPage">
-      <Navbar />
       <main className="Main">
         <div className="Main-header">
           <Link to={"/"}>Projetos</Link>
