@@ -1,0 +1,61 @@
+.ProjectsPage {
+  width: 1440px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+  padding-bottom: 2rem;
+}
+
+.ProjectsPage > .Main {
+  width: 100%;
+  padding: 0rem 5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.ProjectsPage > .Main > .Main-header {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.ProjectsPage > .Main > .Main-header > a {
+  color: #cd5888;
+}
+
+.ProjectsPage > .Main > .Main-header > a:hover {
+  text-decoration: underline;
+}
+
+.ProjectsPage > .Main > .Main-header > h1 {
+  font-size: 24px;
+  color: white;
+}
+
+.ProjectsPage > .Main > .Conteudo {
+  width: 525px;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.ProjectsPage > .Main > .Conteudo > p {
+  color: white;
+}
+
+.ProjectsPage > .Main > .Conteudo > p > a {
+  text-decoration: underline;
+  color: white;
+}
+
+.ProjectsPage > .Main > .Conteudo > p > a:hover {
+  color: #edd7e0;
+}
+
+.ProjectsPage > .Main > .Conteudo > p > strong {
+  color: #cd5888;
+  font-weight: 300;
+}

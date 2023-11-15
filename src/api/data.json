@@ -1,0 +1,98 @@
+[
+  {
+    "image": "/src/assets/thumbnails/Faq.jpg",
+    "difficulty": "Newbie",
+    "title": "FAQ accordion card",
+    "text": "In this challenge, you'll be building out an FAQ accordion. This is an extremely common front-end pattern, so it's a great opportunity to get some practice in!",
+    "stacks": "HTML - CSS - JS",
+    "link": "Faq"
+  },
+  {
+    "image": "/src/assets/thumbnails/ProfileCard.jpg",
+    "difficulty": "Newbie",
+    "title": "Profile card component",
+    "text": "This is a perfect challenge to test your layout skills. The card layout doesn't shift, so it's also great for those that haven't dived into responsive websites yet!",
+    "stacks": "HTML - CSS",
+    "link": "ProfileCard"
+  },
+  {
+    "image": "src/assets/thumbnails/SignUpForm.png",
+    "difficulty": "Newbie",
+    "title": "Intro component with sign-up form",
+    "text": "Practice building out a sign-up form complete with client-side validation using JavaScript.",
+    "stacks": "HTML - CSS - JS",
+    "link": "SignUpForm"
+  },
+  {
+    "image": "/src/assets/thumbnails/TimeDashboard.jpg",
+    "difficulty": "Junior",
+    "title": "Time tracking dashboard",
+    "text": "A perfect opportunity to practice your CSS Grid skills. For anyone wanting to take it up a notch, we provide a JSON data file to practice working with data.",
+    "stacks": "HTML - CSS - JS",
+    "link": "TimeDashboard"
+  },
+  {
+    "image": "/src/assets/thumbnails/PricingComponent.jpg",
+    "difficulty": "Junior",
+    "title": "Pricing component with toggle",
+    "text": "This challenge will get you thinking about building an accessible custom toggle control and also test your layout skills.",
+    "stacks": "ReactJS - CSS",
+    "link": "PricingComponent"
+  },
+  {
+    "image": "/src/assets/thumbnails/SocialDashboard.jpg",
+    "difficulty": "Junior",
+    "title": "Social media dashboard with theme switcher",
+    "text": "This challenge will be a perfect chance to practice your Grid skills. The color theme switcher also adds a nice additional test.",
+    "stacks": "HTML - CSS - JS",
+    "link": "SocialDashboard"
+  },
+  {
+    "image": "/src/assets/thumbnails/Advice.png",
+    "difficulty": "Junior",
+    "title": "Advice generator app",
+    "text": "The perfect project if you're learning how to interact with 3rd-party APIs. This challenge uses the Advice Slip API to generate random quotes of advice.",
+    "stacks": "HTML - CSS - JS - API",
+    "link": "AdviceApp"
+  },
+  {
+    "image": "/src/assets/thumbnails/SunnysideLP.png",
+    "difficulty": "Junior",
+    "title": "Sunnyside agency landing page",
+    "text": "This challenge will be a perfect test of your layout and responsive skills. There's a tiny bit of JS for the mobile menu, but the focus is HTML & CSS.",
+    "stacks": "HTML - CSS - JS",
+    "link": "SunnysideLP"
+  },
+  {
+    "image": "/src/assets/thumbnails/SignUpFormJunior.jpg",
+    "difficulty": "Junior",
+    "title": "Newsletter sign-up form with success message",
+    "text": "This will test your skills with basic form structure, validation, and submission. The success state will also be an excellent opportunity to work with DOM manipulation.",
+    "stacks": "HTML - CSS - JS",
+    "link": "SignUpFormJunior"
+  },
+  {
+    "image": "/src/assets/thumbnails/ECommerce.png",
+    "difficulty": "Intermediate",
+    "title": "E-commerce product page",
+    "text": "In this challenge, you'll build a beautiful product page. We'll be putting your JS skills to the test with a lightbox product gallery and cart functionality!",
+    "stacks": "HTML - CSS - JS",
+    "link": "ECommercePage"
+  },
+  {
+    "image": "/src/assets/thumbnails/TodoApp.jpg",
+    "difficulty": "Intermediate",
+    "title": "Todo app",
+    "text": "The classic todo app with a few twists! This app includes a dark/light theme toggle",
+    "stacks": "HTML - CSS - JS",
+    "link": "TodoApp"
+  },
+  {
+    "image": "/src/assets/thumbnails/UrlAPIpage.png",
+    "difficulty": "Intermediate",
+    "title": "URL shortening API landing page",
+    "text": "Integrate with the Clean URI link shortening API and play with browser storage in this landing page challenge.",
+    "stacks": "HTML - CSS - JS - API",
+    "link": "UrlAPIpage"
+  }
+]

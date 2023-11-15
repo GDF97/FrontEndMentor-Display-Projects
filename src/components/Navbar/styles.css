@@ -1,0 +1,28 @@
+.Header {
+  width: 100%;
+  padding: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Header > a {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: white;
+  width: fit-content;
+  font-size: 18px;
+}
+
+.Header > a > p {
+  font-size: 18px;
+}
+
+.Header > a > img {
+  width: 40px;
+  height: 40px;
+}
+
+.Header > a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,37 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* outline: 1px solid red; */
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(180deg, #393053 0%, #18122b 100%);
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+::-webkit-scrollbar {
+  background-color: #18122b;
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  width: 1px;
+  background-color: #ffffff5a;
+}
