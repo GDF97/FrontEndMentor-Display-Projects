@@ -108,6 +108,7 @@ export default function Home() {
                   title={challange.title}
                   text={challange.text}
                   stacks={challange.stacks}
+                  link={challange.link}
                 />
               ))}
             </>
