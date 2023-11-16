@@ -11,7 +11,10 @@ export default function Navbar() {
         <img src={MoonIcon} alt="" className="img" />
         <p>{name}</p>
       </a>
-      <a href="https://github.com/GDF97/FrontEndMentor-Display" target="_blank">
+      <a
+        href="https://github.com/GDF97/FrontEndMentor-Display-Projects"
+        target="_blank"
+      >
         Github Source
       </a>
     </header>
