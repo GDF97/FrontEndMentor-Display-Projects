@@ -14,7 +14,7 @@ export default function PricingComponent() {
         </div>
         <section className="Conteudo">
           <p>
-            <strong>Difficulty:</strong> Newbie
+            <strong>Difficulty:</strong> Junior
           </p>
           <p>
             <strong>Desc: </strong>
@@ -41,7 +41,7 @@ export default function PricingComponent() {
             </a>
           </p>
           <p>
-            <strong>Stack:</strong> HTML - CSS - JS
+            <strong>Stack:</strong> ReactJS - CSS
           </p>
           <img src={Thumbnail} alt="" />
         </section>

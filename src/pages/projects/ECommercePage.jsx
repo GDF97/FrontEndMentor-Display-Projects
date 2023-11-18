@@ -14,7 +14,7 @@ export default function ECommercePage() {
         </div>
         <section className="Conteudo">
           <p>
-            <strong>Difficulty:</strong> Newbie
+            <strong>Difficulty:</strong> Intermediate
           </p>
           <p>
             <strong>Desc: </strong>

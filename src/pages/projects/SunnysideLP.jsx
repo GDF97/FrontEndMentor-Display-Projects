@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./styles.css";
-import Thumbnail from "../../assets/thumbnails/SunnysideLP.png";
+import Thumbnail from "../../assets/thumbnails/SunnySideLP.png";
 
 export default function SunnysideLP() {
   let nomeProjeto = "> Sunnyside agency landing page";
