@@ -1,13 +1,12 @@
 import React from "react";
-import Navbar from "../components/Navbar/Navbar";
 import Card from "../components/Card/Card";
 import Footer from "../components/Footer/Footer";
 import { BiChevronDown } from "react-icons/bi";
 import { useState, useEffect } from "react";
 import "./Home.css";
+import TestAPI from "../api/data.json";
 
 export default function Home() {
-  const [count, setCount] = useState(0);
   const [open, setOpen] = useState(false);
   const [filter, setFilter] = useState("All Projects");
   const [filteredProjects, setFilteredProjects] = useState([]);
@@ -19,19 +18,8 @@ export default function Home() {
   };
   let MenuListClass = "MenuList " + menuObj[open];
 
-  const configServer = {
-    method: "GET",
-    headers: {
-      "Content-Type": "applications/json",
-    },
-  };
-
   useEffect(() => {
-    fetch("../src/api/data.json", configServer)
-      .then((response) => response.json())
-      .then((data) => {
-        setProjects(data);
-      });
+    setProjects(TestAPI);
   }, []);
 
   useEffect(() => {
