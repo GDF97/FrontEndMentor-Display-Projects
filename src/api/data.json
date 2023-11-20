@@ -1,6 +1,6 @@
 [
   {
-    "image": "../../../dist/assets/Faq-339ebae4.jpg",
+    "image": "https://raw.githubusercontent.com/GDF97/FrontEndMentor-Display-Projects/main/src/assets/thumbnails/Faq.jpg",
     "difficulty": "Newbie",
     "title": "FAQ accordion card",
     "text": "In this challenge, you'll be building out an FAQ accordion. This is an extremely common front-end pattern, so it's a great opportunity to get some practice in!",
@@ -8,7 +8,7 @@
     "link": "Faq"
   },
   {
-    "image": "../../../dist/assets/SignUpForm-463b64ad.png",
+    "image": "https://github.com/GDF97/FrontEndMentor-Display-Projects/blob/main/src/assets/thumbnails/SignUpForm.png?raw=true",
     "difficulty": "Newbie",
     "title": "Intro component with sign-up form",
     "text": "Practice building out a sign-up form complete with client-side validation using JavaScript.",
@@ -16,7 +16,7 @@
     "link": "SignUpForm"
   },
   {
-    "image": "../../../dist/assets/TimeDashboard-bea47823.jpg",
+    "image": "https://github.com/GDF97/FrontEndMentor-Display-Projects/blob/main/src/assets/thumbnails/TimeDashboard.jpg?raw=true",
     "difficulty": "Junior",
     "title": "Time tracking dashboard",
     "text": "A perfect opportunity to practice your CSS Grid skills. For anyone wanting to take it up a notch, we provide a JSON data file to practice working with data.",
@@ -24,7 +24,7 @@
     "link": "TimeDashboard"
   },
   {
-    "image": "../../../dist/assets/PricingComponent-0108f81f.jpg",
+    "image": "https://github.com/GDF97/FrontEndMentor-Display-Projects/blob/main/src/assets/thumbnails/PricingComponent.jpg?raw=true",
     "difficulty": "Junior",
     "title": "Pricing component with toggle",
     "text": "This challenge will get you thinking about building an accessible custom toggle control and also test your layout skills.",
@@ -32,7 +32,7 @@
     "link": "PricingComponent"
   },
   {
-    "image": "../../../dist/assets/SocialDashboard-98bdeeed.jpg",
+    "image": "https://github.com/GDF97/FrontEndMentor-Display-Projects/blob/main/src/assets/thumbnails/SocialDashboard.jpg?raw=true",
     "difficulty": "Junior",
     "title": "Social media dashboard with theme switcher",
     "text": "This challenge will be a perfect chance to practice your Grid skills. The color theme switcher also adds a nice additional test.",
@@ -40,7 +40,7 @@
     "link": "SocialDashboard"
   },
   {
-    "image": "../../../dist/assets/Advice-007bed62.png",
+    "image": "https://github.com/GDF97/FrontEndMentor-Display-Projects/blob/main/src/assets/thumbnails/Advice.png?raw=true",
     "difficulty": "Junior",
     "title": "Advice generator app",
     "text": "The perfect project if you're learning how to interact with 3rd-party APIs. This challenge uses the Advice Slip API to generate random quotes of advice.",
@@ -48,7 +48,7 @@
     "link": "AdviceApp"
   },
   {
-    "image": "../../../dist/assets/SunnysideLP-3fba740b.png",
+    "image": "https://github.com/GDF97/FrontEndMentor-Display-Projects/blob/main/src/assets/thumbnails/SunnySideLP.png?raw=true",
     "difficulty": "Junior",
     "title": "Sunnyside agency landing page",
     "text": "This challenge will be a perfect test of your layout and responsive skills. There's a tiny bit of JS for the mobile menu, but the focus is HTML & CSS.",
@@ -56,7 +56,7 @@
     "link": "SunnysideLP"
   },
   {
-    "image": "../../../dist/assets/SignUpFormJunior-fcc14653.jpg",
+    "image": "https://github.com/GDF97/FrontEndMentor-Display-Projects/blob/main/src/assets/thumbnails/SignUpFormJunior.jpg?raw=true",
     "difficulty": "Junior",
     "title": "Newsletter sign-up form with success message",
     "text": "This will test your skills with basic form structure, validation, and submission. The success state will also be an excellent opportunity to work with DOM manipulation.",
@@ -64,7 +64,7 @@
     "link": "SignUpFormJunior"
   },
   {
-    "image": "../../../dist/assets/ECommerce-f3dd7aaa.png",
+    "image": "https://github.com/GDF97/FrontEndMentor-Display-Projects/blob/main/src/assets/thumbnails/ECommerce.png?raw=true",
     "difficulty": "Intermediate",
     "title": "E-commerce product page",
     "text": "In this challenge, you'll build a beautiful product page. We'll be putting your JS skills to the test with a lightbox product gallery and cart functionality!",
@@ -72,7 +72,7 @@
     "link": "ECommercePage"
   },
   {
-    "image": "../../../dist/assets/TodoApp-bf99ff29.jpg",
+    "image": "https://github.com/GDF97/FrontEndMentor-Display-Projects/blob/main/src/assets/thumbnails/TodoApp.jpg?raw=true",
     "difficulty": "Intermediate",
     "title": "Todo app",
     "text": "The classic todo app with a few twists! This app includes a dark/light theme toggle",
@@ -80,7 +80,7 @@
     "link": "TodoApp"
   },
   {
-    "image": "../../../dist/assets/UrlAPIpage-55c3e59c.png",
+    "image": "https://github.com/GDF97/FrontEndMentor-Display-Projects/blob/main/src/assets/thumbnails/UrlAPIpage.png?raw=true",
     "difficulty": "Intermediate",
     "title": "URL shortening API landing page",
     "text": "Integrate with the Clean URI link shortening API and play with browser storage in this landing page challenge.",
