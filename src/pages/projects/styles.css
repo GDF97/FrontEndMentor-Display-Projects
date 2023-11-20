@@ -58,3 +58,32 @@
   color: #cd5888;
   font-weight: 300;
 }
+
+@media (max-width: 1440px) {
+  .ProjectsPage {
+    width: 1000px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .ProjectsPage {
+    width: 600px;
+  }
+
+  .ProjectsPage > .Main {
+    padding: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .ProjectsPage {
+    width: 375px;
+  }
+  .ProjectsPage > .Main > .Conteudo {
+    width: 325px;
+  }
+
+  .ProjectsPage > .Main > .Main-header {
+    padding-left: 1rem;
+  }
+}

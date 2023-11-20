@@ -98,3 +98,30 @@
     grid-template-columns: repeat(1, 1fr);
   }
 }
+
+@media (max-width: 800px) {
+  .Home {
+    width: 375px;
+  }
+
+  .Home > .Main {
+    padding: 0rem;
+  }
+
+  .Home > .Main > h1 {
+    font-size: 2rem;
+  }
+
+  .Home > .Main > .Section {
+    padding: 0;
+  }
+}
+
+@media (max-width: 400px) {
+  .Home > .Main > h1 {
+    font-size: 1.5rem;
+  }
+  .Home > .Main > .Menu {
+    padding-left: 1rem;
+  }
+}

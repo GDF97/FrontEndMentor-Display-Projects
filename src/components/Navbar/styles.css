@@ -26,3 +26,9 @@
 .Header > a:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 1000px) {
+  .Header {
+    padding: 1.5rem 0.5rem;
+  }
+}
